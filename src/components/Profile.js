@@ -7,7 +7,7 @@ function Profile(){
                 <img src={profileImg} alt="profile-img" />
             </div>
             <div className="profile-info">
-                <p className="profile-name">Diwakar Singh</p>
+                <p className="profile-name">Bhushan Yenurkar</p>
                 <p className="profile-occupation">Frontend Developer</p>
                 <p className="profile-website">diwa.website</p>
             </div>
