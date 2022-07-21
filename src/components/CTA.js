@@ -2,7 +2,8 @@
 function CTA(){
     return(
         <div className="cta">
-            <a href="bhushan.yenurkar@gmail.com" className="cta-btn cta-btn-email">
+         <a href="mailto:bhushan.yenurkar@gmail.com"
+ className="cta-btn cta-btn-email">
                 <span className="cta-btn-icon">
                     <svg width="17" height="16" viewBox="0 0 17 16" fill="none" xmlns="http://www.w3.org/2000/svg">
                     <path d="M2.10241 4.70721L8.50001 7.90561L14.8976 4.70721C14.8739 4.29957 14.6953 3.9164 14.3983 3.63619C14.1012 3.35598 13.7083 3.19994 13.3 3.20001H3.70001C3.29167 3.19994 2.89876 3.35598 2.60175 3.63619C2.30473 3.9164 2.12609 4.29957 2.10241 4.70721Z" fill="#1E1F26"/>
@@ -10,6 +11,7 @@ function CTA(){
                     </svg>
                 </span>
                 <span className="cta-btn-text">Email</span>
+
             </a>
             <a href="https://www.linkedin.com/in/bhushan-yenurkar-530131166/" className="cta-btn cta-btn-linkedin">
             <span className="cta-btn-icon">
